@@ -110,3 +110,78 @@ Develop a prioritized action plan with timelines and assigned responsibilities.
 - Key Concept
 - Gap Analysis = Current State – Required State
 ###### It is a formal method used to identify, measure, and prioritize security deficiencies to align an organization with a cybersecurity framework or compliance requirement.
+*** 
+### Access Control 03 
+Access control is the security process that controls access to systems and data by verifying identity and enforcing permissions.
+###### Who is allowed to access what — and what they’re allowed to do.
+#### Subjects vs  Objects
+- Subjects = users, devices, apps (anything requesting access)
+- Objects = files, databases, servers, networks (the resources)
+Simple Real-Life Example
+###### Think of a school:
+- Your student ID card = identification
+- Swiping it at the door = authentication
+- Some rooms open, others stay locked = authorization
+- Security cameras/logs track entry = accounting
+- That whole system = access control
+### Security controls 04 
+Security controls are safeguards used to protect systems, data, and networks.
+#### Security Control Categories
+1. Managerial/administrative control
+it focus on policies, procedures, and management decisions, Managerial control are rules and oversight created by management to reduce risk and guide security behavior.
+#### example Examples
+- Security policies
+- Acceptable Use Policy (AUP)
+- Risk assessments
+- Security awareness training
+- Background checks
+- Incident response plans
+- Change management procedures
+
+QR: A managerial control is a policy, procedure, or governance mechanism implemented by management to guide and enforce security practices.
+**********
+### 2. Operational
+security procedures and activities performed by staff to protect systems.
+- Security awareness training
+- Incident response procedures
+- Backup procedures
+- User account management
+- Monitoring and reviewing logs
+- Physical security patrols
+ ###### Let's say compnay wants to protect data. 
+1. Managerial control → Create a security policy
+2. Operational control → IT staff follow procedures to manage accounts
+###### QR: 
+Operational controls are security measures implemented and maintained through day-to-day procedures and actions performed by people.
+### 03 Technical control. 
+A technical control (also called a logical control) is a security measure that uses technology to protect systems and data.(enforced by hardware or software) 
+#### Examples of Technical Controls
+- Firewalls
+- Antivirus software
+- Encryption
+- Multi-Factor Authentication (MFA)
+- Access Control Lists (ACLs)
+- Intrusion Detection Systems (IDS)
+- Password protection
+##### Comparison
+
+If a company wants to protect its servers:
+- Managerial control → Create a password policy
+- Operational control → IT staff reset and manage accounts
+- Technical control → System enforces password complexity rules
+#### 04 Pysical control.
+A physical control is a security measure that protects people, buildings, and equipment from physical access or damage.
+###### Examples of Physical Controls
+- Door locks
+- Security guards
+- Surveillance cameras (CCTV)
+- Fences
+- Badge access systems
+- Biometric door scanners
+- Alarm systems
+- Server room locks
+###### Easy comparison 
+Managerial control → Policy: “Only IT staff may enter server room.”
+Operational control → Staff check visitor badges.
+Technical control → Firewall protects network.
+Physical control → Locked server room door.
