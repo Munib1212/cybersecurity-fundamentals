@@ -185,3 +185,13 @@ Managerial control → Policy: “Only IT staff may enter server room.”
 Operational control → Staff check visitor badges.
 Technical control → Firewall protects network.
 Physical control → Locked server room door.
+###### Portation 2 
+### Information Security Competencies
+1.  Risk Assessment and Security Testing
+- Security professionals participate in identifying threats, vulnerabilities, and risks. They:
+- Conduct or support risk assessments
+- Perform security testing (vulnerability scans, configuration reviews)
+- Evaluate existing controls
+- Recommend improvements to reduce risk
+  END--- due to time 
+   
